@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Modern To-Do List</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h2 class="title">📝ToDo</h2>
+    
+    <div class="form">
+      <input type="text" class="input" placeholder="Add new task..." />
+      <input type="submit" value="Add Task" class="add" />
+    </div>
+
+    <div class="filters">
+      <button data-filter="all" class="filter active">All</button>
+      <button data-filter="progress" class="filter">In Progress</button>
+      <button data-filter="completed" class="filter">Completed</button>
+    </div>
+
+    <div class="tasks"></div>
+  </div>
+
+  <script src="./script.js"></script>
+</body>
+</html>
