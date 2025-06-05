@@ -4,7 +4,7 @@ C:\Users\J.P.M\OneDrive - Ministere de l'education nationale, de l'enseignement 
 🟡 In Progress Tasks
 C:\Users\J.P.M\OneDrive - Ministere de l'education nationale, de l'enseignement supérieur, de la formation professionnelle et de la recherche scientifique\Pictures\Screenshots
 # Completed Tasks
-"C:\Users\J.P.M\OneDrive - Ministere de l'education nationale, de l'enseignement supérieur, de la formation professionnelle et de la recherche scientifique\Pictures\Screenshots\complet.png"
+C:\Users\J.P.M\OneDrive - Ministere de l'education nationale, de l'enseignement supérieur, de la formation professionnelle et de la recherche scientifique\Pictures\Screenshots\complet.png
 
 # Features
 -  Add and delete tasks easily.
