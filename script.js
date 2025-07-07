@@ -73,9 +73,9 @@ function renderTasks(filter) {
   
     if (task.completed) {
       div.classList.add("done");
-      div.style.backgroundColor = "#ffdddd"; // light red
+      div.style.backgroundColor = "#ffdddd"; 
     } else {
-      div.style.backgroundColor = "#fff6cc"; // light yellow
+      div.style.backgroundColor = "#fff6cc"; 
     }
 
     let span = document.createElement("span");
