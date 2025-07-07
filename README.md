@@ -1,13 +1,16 @@
 A beautiful and responsive To-Do List web app to manage your daily tasks. Built using HTML,CSS, and JavaScript, this project focuses on "user experience", task organization", and "modern UI design".
 
 # All Tasks View
-![all](https://github.com/user-attachments/assets/37994a6e-2750-462f-80ad-96a7d17525aa)
+![all](https://github.com/user-attachments/assets/17f401a7-47f1-4050-bf4d-2ae267e34f8d)
+
 
 # In Progress Tasks
-![inProgress](https://github.com/user-attachments/assets/5b685586-7dd1-4ffa-9f0e-bbcbefc51ddf)
+![inProgress](https://github.com/user-attachments/assets/b00d5c6c-c69d-4a39-9765-1dfe77dade35)
+
 
 # Completed Tasks
-![complet](https://github.com/user-attachments/assets/8db03ac3-7aa0-458e-9226-84208976f7b0)
+
+![complet](https://github.com/user-attachments/assets/f8e63e47-6c14-47fe-812f-66b1ea437eb9)
 
 
 # Features
